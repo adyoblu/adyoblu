@@ -33,11 +33,50 @@
 
 <br />
 
+---
+
+### Certifications:
+
+  <details>
+  <summary>C++ SoloLearn</summary>
+
+  [<img src="./img/C++SoloLearn.png" style="
+  width: 75%;"/>](https://www.sololearn.com/certificates/course/en/20925406/1051/landscape/png)
+  </details>
+
+  <details>
+  <summary>Coursera Technical Support Fundamentals</summary>
+
+  [<img src="./img/Coursera.png" style="
+  width: 75%;"/>](https://www.coursera.org/account/accomplishments/verify/7LYP9BC9ZURN)
+  </details>
+
+  <details>
+  <summary>Hackerrank Problem Solving (Basic) Certificate</summary>
+
+  [<img src="./img/Hackerrank.png" style="
+  width: 75%;"/>](https://www.hackerrank.com/certificates/35b55da6eca7)
+  </details>
+
+  <details>
+  <summary>Oracle Database Design and Programming with SQL Certificate</summary>
+
+  [<img src="./img/Oracle.png" style="
+  width: 75%;"/>](https://drive.google.com/file/d/19LAX_zSJHH4eoFCnJ7BejAFEYYk2viFA/view)
+  </details>
+
+  <details>
+  <summary>European Computer Driving Licence(ECDL)</summary>
+
+  [<img src="./img/ECDL.png" style="
+  width: 75%;"/>](https://drive.google.com/file/d/188FMkeDVz2zeRMXxlq3UyHPpxvAzVoom/view)
+  </details>
+
 
 ---
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyoblu" style="
-  width: 35%;"/>](https://github.com/adyoblu/github-readme-stats)
+  width: 35%;"/>][adyoblu]
 
 
 
