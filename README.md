@@ -1,4 +1,4 @@
-👋 Hi, I'm Adrian - aka [adyoblu] and I’m interested in any developer position. 
+👋 Hi, I'm Adrian - aka [adyoblu]
 📫 Reach me by email: adyoblu2000@yahoo.com
 
 ### Connect with me:
