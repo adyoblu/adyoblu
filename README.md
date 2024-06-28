@@ -1,4 +1,4 @@
-👋 Hi, I'm Adrian - aka [adyoblu]
+👋 Hi, I'm Adrian
 📫 Reach me by email: adyoblu2000@yahoo.com
 
 ### Connect with me:
